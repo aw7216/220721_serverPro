@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>"220721_서버프로그램구현 : 김민지"</h2>
+	<h1>"220721_서버프로그램구현 : 김민지"</h1>
 </body>
 </html>
